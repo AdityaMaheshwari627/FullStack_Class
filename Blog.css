@@ -1,0 +1,36 @@
+h2 {
+    text-align: center;
+    color: darkblue;
+    text-transform: capitalize;
+}
+h3 {
+    text-align: center;
+    color: rgb(8, 101, 52);
+    text-transform: uppercase;
+}
+body {
+    background-color: rgb(127, 217, 255);
+    background-image: -moz-radial-gradient();
+    font-family: Arial, Helvetica, sans-serif;
+}
+header {
+    background-color: rgba(44, 239, 151, 0.7);
+    padding: 9px;
+    background-image: -moz-element();
+}
+nav a {
+    text-decoration: none;
+    color: blueviolet;
+    margin: 10 10px;
+    font-weight: bold;
+}
+nav a {
+    text-decoration: underline;
+    color:red;
+}
+footer {
+    text-align: center;
+    background-color: rgb(25, 25, 87);
+    padding: 15px;
+    font-weight: bold;
+}
