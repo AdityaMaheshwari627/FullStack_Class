@@ -4,7 +4,6 @@
   border: 2px solid black;
   display: grid;
   grid-template-columns: repeat(8, 1fr);
-}
 
 .sqaure {
   width: 50px;
@@ -12,8 +11,8 @@
 }
 
 .black {
-  background-color: black;
+  background-color:blue;
 }
 .white {
-  background-color: white;
+  background-color:rgb(80, 167, 207);
 }
